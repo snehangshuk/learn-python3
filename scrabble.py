@@ -24,8 +24,7 @@ def score_word(word):
 
 '''a function that would take in a player and a word, and add that word to the list of words they’ve played'''
 def play_word(player, word):
-  key_exists = player_to_words.get(player, "False")
-  if key_exists != "False":
+  if player in player_to_words:
     player_to_words[player].append(word)
   return update_point_totals()
 
