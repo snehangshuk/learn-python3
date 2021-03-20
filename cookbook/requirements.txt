@@ -25,7 +25,7 @@ humanize==0.5.1
 idna==2.8
 is-disposable-email==1.0.0
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 langtable==0.0.51
 libcomps==0.1.15
 libvirt-python==6.1.0
