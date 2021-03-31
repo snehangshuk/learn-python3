@@ -29,7 +29,7 @@ Jinja2==2.11.2
 langtable==0.0.51
 libcomps==0.1.15
 libvirt-python==6.1.0
-lxml==4.4.1
+lxml==4.6.3
 Mako==1.1.1.dev0
 MarkupSafe==1.1.1
 nftables==0.1
